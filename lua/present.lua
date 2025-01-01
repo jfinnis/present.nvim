@@ -1,5 +1,3 @@
--- TODO: get lsp working with the global vim api
-
 local M = { }
 
 local function create_floating_window(config, enter)
